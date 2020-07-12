@@ -3,7 +3,7 @@
 
 ### 这是一个
 #### :smile:素质教育的漏网之鱼
-#### :simple_smile:资深网络表情包传播者
+#### :stuck_out_tongue_closed_eyes:资深网络表情包传播者
 #### :laughing:耳机依赖患者
 #### :blush:资深话题终结者
 #### :smiley:丧文化优秀继承者
