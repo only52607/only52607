@@ -1,6 +1,5 @@
-## OOOOONLY has only 👋five Os.
-### :smiley:A student who likes novel things.
-### :flushed:My technology stack:
+## OOOOOOOOOOOOOOOOOOOONLY
+                                             
 ![](https://img.shields.io/badge/-kotlin-0095D5?logo=kotlin&style=for-the-badge&logoColor=fff)
 ![](https://img.shields.io/badge/-typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=fff)
 ![](https://img.shields.io/badge/-android-3DDC84?logo=android&style=for-the-badge&logoColor=fff)
